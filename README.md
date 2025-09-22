@@ -1,10 +1,6 @@
 # Hi there, I'm Dinesh 👋  
 
 ## 🚀 About Me
-
-# 👋 Hi, I'm Dinesh R
-
-## 🚀 About Me
 - 💻 I’m a **passionate developer** who loves coding and problem-solving  
 - 📍 Based in **Bangalore, India**
 - 🌱 Exploring **MCP, Frappe, Next.js, React.js, Python, FastAPI, Django, Flask**
